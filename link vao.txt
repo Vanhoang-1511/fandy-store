@@ -1,0 +1,5 @@
+Link người dùng localhost/trinnie_store/public/home
+Link admin localhost/trinnie_store/public/admin/login
+tk: admin@gmail.com
+
+mk: Matkhau1*
